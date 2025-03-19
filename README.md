@@ -1,5 +1,38 @@
-# Speedy-Car-Metrics
- 
+# 🚗 Speedy Car Metrics
+
+---
+## 📊 Speedy Cars Data Analysis: Enhancing Insights for a Rental  Business
+
+---
+## 🔎 Project Overview:-
+
+The **Speedy Cars Database Analysis** project utilizes **SQL** to explore key aspects of a car rental business, including car availability, customer behavior, employee performance, and revenue trends. By analyzing tables such as **Cars, Customers, Rentals, Payments,** and **Employees**, the project extracts valuable insights through **23 business-critical queries**. It helps optimize **fleet management, revenue generation, and customer retention** by identifying high-demand cars, top-paying customers, and branch-wise performance. Additionally, it evaluates **rental duration patterns, employee efficiency, and payment trends** to enhance operational decision-making. This data-driven approach empowers **Speedy Cars** to improve profitability, streamline operations, and enhance customer experience. 🚗📊
+
+---
+
+## 📌 Project Objectives: Speedy Cars Database Analysis
+
+The objective of this project is to analyze the **Speedy Cars** rental database using **SQL** to extract meaningful insights that can help optimize business operations. The analysis aims to:  
+
+1️⃣ **Monitor car availability** to ensure efficient fleet management.  
+2️⃣**Track employee performance** based on the number of rentals processed.  
+3️⃣ **Analyze customer behavior** to identify frequent renters and high-value customers.  
+4️⃣ **Evaluate rental revenue trends** across different branches and payment methods.  
+5️⃣ **Identify top-performing cars** based on rental frequency and revenue generation.  
+6️⃣ **Detect inactive customers** to improve customer retention strategies.  
+
+This data-driven approach enables **Speedy Cars** to improve decision-making, enhance operational efficiency, and boost profitability. 🚗💨
+
+---
+# 🛠️ Tools & Library Used
+<img src="./Images/TOOL.jpeg" alt="Images/TOOL.jpeg" width="200"/> &nbsp;
+
+# Project Result
+
+[Click here to get full code](https://github.com/Omgadakhgithub/-Maven-Movies-Insights/blob/main/Movies%20Analysis%20and%20Codes.sql)
+
+---
+# 🎯 Query Task 
 
 1. **List all cars that are currently available for rent?**
 
