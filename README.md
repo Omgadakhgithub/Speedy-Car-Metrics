@@ -29,7 +29,7 @@ This data-driven approach enables **Speedy Cars** to improve decision-making, en
 
 # Project Result
 
-[Click here to get full code](https://github.com/Omgadakhgithub/-Maven-Movies-Insights/blob/main/Movies%20Analysis%20and%20Codes.sql)
+[Click here to get full code](https://github.com/Omgadakhgithub/Speedy-Car-Metrics/blob/main/Speedy%20Cars.sql)
 
 ---
 # 🎯 Query Task 
