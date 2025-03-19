@@ -2,6 +2,7 @@
  
 
 1. **List all cars that are currently available for rent?**  
+<img src="./Images/Q1.jpeg" alt="Q1.jpeg" width="400"/> &nbsp;
 
 ---
 2. **Show employees working in the 'Los Angeles' branch?**  
